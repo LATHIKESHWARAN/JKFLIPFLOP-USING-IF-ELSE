@@ -1,4 +1,7 @@
-# JKFLIPFLOP-USING-IF-ELSE
+# JKFLIPFLOP USING IF ELSE
+
+## Name: Lathikeshwaran J
+## Reg No: 212222230072
 
 **AIM:** 
 
